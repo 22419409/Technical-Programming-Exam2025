@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+streamlit
+pandas
+matplotlib
+scikit-learn
+numpy
+imblearn
