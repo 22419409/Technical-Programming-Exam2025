@@ -1,0 +1,403 @@
+Province;Crime Category;2014/2015;2015/2016;2016/2017;2017/2018;2018/2019;2019/2020;2020/2021;2021/2022;2022/2023;2023/2024
+Republic of South Africa;Murder;17805;18673;19016;20336;21022;21325;19972;25181;27494;27621
+Republic of South Africa;Sexual offences;53617;51895;49660;50108;52420;53293;46214;52694;53498;53285
+Republic of South Africa;Attempted murder;17537;18127;18205;18233;18980;18635;18707;22095;25131;28451
+Republic of South Africa;Assault with the intent to inflict grievous bodily harm;182556;182933;170616;167352;170979;166720;143393;162842;169374;179572
+Republic of South Africa;Common assault;161486;164958;156450;156243;162012;165494;149442;169963;185374;190399
+Republic of South Africa;Common robbery;54927;54110;53418;50730;51765;51825;37648;41600;47057;49056
+Republic of South Africa;Robbery with aggravating circumstances;129045;132527;140956;138364;140032;143990;119841;132788;146125;150317
+Republic of South Africa;Contact crime (Crimes against the person);616973;623223;608321;601366;617210;621282;535217;607163;654053;678701
+Republic of South Africa;Rape;43195;41503;39828;40035;41583;42289;36330;41739;42780;42569
+Republic of South Africa;Sexual assault;6087;6212;6271;6786;7437;7749;7025;7798;7483;7418
+Republic of South Africa;Attempted sexual offences;2641;2573;2073;2066;2146;2076;1800;2027;2376;2558
+Republic of South Africa;Contact sexual offences;1694;1607;1488;1221;1254;1179;1059;1130;859;740
+Republic of South Africa;Carjacking;12773;14602;16717;16325;16026;18162;16731;20923;22702;22735
+Republic of South Africa;Robbery at residential premises;20281;20820;22343;22261;22431;21130;20870;21832;23065;23614
+Republic of South Africa;Robbery at non-residential premises;19170;19698;20680;20047;19991;20651;18231;20012;20054;18592
+Republic of South Africa;TRIO Crime;52224;55120;59740;58612;58448;59943;55831;62767;65821;64941
+Republic of South Africa;Robbery of cash in transit;119;137;152;238;183;164;195;238;238;211
+Republic of South Africa;Bank robbery;17;6;3;13;4;0;2;13;4;3
+""
+Republic of South Africa;Arson;5127;4903;4321;3869;4083;3783;3238;4102;3626;3419
+Republic of South Africa;Malicious damage to property;120662;119901;116409;111492;113089;108461;99031;113403;115118;112466
+Republic of South Africa;Contact-related crime;125789;124804;120730;115361;117172;112244;102269;117505;118744;115885
+Republic of South Africa;Burglary at non-residential premises;74358;75008;75618;71195;71224;69713;65508;62197;62588;58055
+Republic of South Africa;Burglary at residential premises;253716;250606;246654;228094;220865;205959;159721;156170;163493;154041
+Republic of South Africa;Theft of motor vehicle and motorcycle;55090;53809;53307;50663;48324;46921;35023;37402;37461;36695
+Republic of South Africa;Theft out of or from motor vehicle;145358;139386;138172;129174;125076;118213;83183;81504;87173;86639
+Republic of South Africa;Stock-theft;24965;24715;26902;28849;29672;28418;26310;25001;25255;24935
+Republic of South Africa;Property-related crime;553487;543524;540653;507975;495161;469224;369745;362274;375970;360365
+Republic of South Africa;All theft not mentioned elsewhere;360541;340372;328272;302656;300457;282817;224345;249215;275452;265290
+Republic of South Africa;Commercial crime;67830;69917;73550;73277;83823;83869;82890;102057;112592;127510
+Republic of South Africa;Shoplifting;71327;68786;67454;62180;60167;59883;47331;42549;49697;53117
+Republic of South Africa;Other serious crime;499698;479075;469276;438113;444447;426569;354566;393821;437741;445917
+Republic of South Africa;17 Community reported serious crime;1795947;1770626;1738980;1662815;1673990;1629319;1361797;1480763;1586508;1600868
+Republic of South Africa;Illegal possession of firearms and ammunition;15116;14772;16134;17558;15736;15779;12930;13549;15649;15846
+""
+Republic of South Africa;Driving under the influence of alcohol or drugs;68561;76159;75034;86160;82912;94273;35860;43873;41768;58187
+Republic of South Africa;Sexual offences detected as a result of police action;6340;5830;6164;6701;7976;9614;6946;7242;9589;10823
+Republic of South Africa;Crime detected as a result of police action;356919;355926;390021;433966;339281;290176;177095;204990;229128;257855
+Republic of South Africa;Kidnapping;4692;5013;4991;5628;5693;6623;6036;10826;15342;17061
+Eastern Cape;Murder;3321;3649;3628;3815;3965;3879;3713;4407;5150;5083
+Eastern Cape;Sexual offences;9224;8797;8050;8094;8731;8708;7445;8404;8269;8099
+Eastern Cape;Attempted murder;1832;2052;2110;2232;2305;2409;2104;2155;2519;2499
+Eastern Cape;Assault with the intent to inflict grievous bodily harm;25431;24818;23241;23133;24125;23376;20238;22933;24218;24844
+Eastern Cape;Common assault;11848;11475;11100;11171;11943;12527;11399;13930;15095;15041
+Eastern Cape;Common robbery;3753;3690;3707;3463;3769;3663;2736;2836;2903;3029
+Eastern Cape;Robbery with aggravating circumstances;13245;12777;13688;13485;13578;13983;11458;11916;13021;13235
+Eastern Cape;Contact crime (Crimes against the person);68654;67258;65524;65393;68416;68545;59093;66581;71175;71830
+Eastern Cape;Rape;7934;7437;6836;6821;7305;7282;6114;6969;6829;6787
+Eastern Cape;Sexual assault;636;747;753;805;890;896;891;956;913;804
+Eastern Cape;Attempted sexual offences;440;430;301;318;388;396;320;361;419;431
+Eastern Cape;Contact sexual offences;214;183;160;150;148;134;120;118;108;77
+Eastern Cape;Carjacking;769;956;955;999;1048;1111;996;1342;1866;1901
+Eastern Cape;Robbery at residential premises;1811;2054;2171;2184;2188;2120;2101;1891;2154;2221
+Eastern Cape;Robbery at non-residential premises;2474;2218;2369;2395;2373;2382;1954;2314;2205;2186
+Eastern Cape;TRIO Crime;5054;5228;5495;5578;5609;5613;5051;5547;6225;6308
+Eastern Cape;Robbery of cash in transit;10;19;11;23;46;21;32;37;45;50
+Eastern Cape;Bank robbery;0;0;1;0;1;0;1;3;2;1
+Eastern Cape;Truck hijacking;34;54;82;92;110;124;159;136;176;234
+Eastern Cape;Arson;785;679;748;605;698;666;560;592;583;502
+Eastern Cape;Malicious damage to property;12399;11819;12062;11422;12040;12055;11113;12574;12874;12052
+Eastern Cape;Contact-related crime;13184;12498;12810;12027;12738;12721;11673;13166;13457;12554
+Eastern Cape;Burglary at non-residential premises;7810;7470;7755;7446;7691;7477;7717;6725;7698;6533
+Eastern Cape;Burglary at residential premises;24329;23901;24385;23758;23393;22233;18521;18471;18916;17298
+""
+Eastern Cape;Theft out of or from motor vehicle;12034;11225;12195;11649;11671;10931;8349;8160;8681;8196
+Eastern Cape;Stock-theft;6087;5809;6023;6217;6736;6800;6399;5363;5561;5903
+Eastern Cape;Property-related crime;53536;51083;53097;51513;51875;49576;42515;40587;42549;39354
+Eastern Cape;All theft not mentioned elsewhere;25597;23429;24486;23174;24277;24188;21068;23395;25440;22760
+Eastern Cape;Commercial crime;5546;6155;6567;6437;7283;8396;8665;10140;10295;11786
+Eastern Cape;Shoplifting;6045;5654;5408;4645;4711;4896;3266;3007;3768;4189
+Eastern Cape;Other serious crime;37188;35238;36461;34256;36271;37480;32999;36542;39503;38735
+Eastern Cape;17 Community reported serious crime;172562;166077;167892;163189;169300;168322;146280;156876;166684;162473
+Eastern Cape;Illegal possession of firearms and ammunition;1719;1773;2045;2142;1995;2156;1685;1688;2038;1886
+Eastern Cape;Drug-related crime;16038;16129;17710;18936;15213;13343;9780;9561;11135;10472
+Eastern Cape;Driving under the influence of alcohol or drugs;6946;6547;6090;5648;5269;5293;1936;3517;2970;4450
+Eastern Cape;Sexual offences detected as a result of police action;219;262;337;275;81;77;26;23;18;20
+Eastern Cape;Crime detected as a result of police action;24922;24711;26182;27001;22558;20869;13427;14789;16161;16828
+Eastern Cape;Kidnapping;407;424;387;374;486;557;520;619;784;848
+Free State;Murder;943;993;950;1054;1000;939;834;992;979;996
+Free State;Sexual offences;4094;3928;3488;3284;3457;3746;2971;3416;3415;3625
+Free State;Attempted murder;816;787;694;617;844;736;727;890;1326;1746
+Free State;Assault with the intent to inflict grievous bodily harm;13458;13116;11702;10842;11120;10887;9550;10933;12030;13071
+Free State;Common assault;15243;15194;13568;12701;13032;12649;12184;14006;15541;15708
+Free State;Common robbery;2521;2304;2192;2195;2087;1983;1410;1738;1945;2167
+Free State;Robbery with aggravating circumstances;5239;4778;5147;5032;5339;5119;3992;4381;4603;4943
+Free State;Contact crime (Crimes against the person);42314;41100;37741;35725;36879;36059;31668;36356;39839;42256
+Free State;Rape;3290;3059;2702;2573;2646;2936;2258;2595;2671;2841
+Free State;Sexual assault;441;484;474;435;517;540;489;567;488;497
+Free State;Attempted sexual offences;208;232;154;153;173;163;140;157;163;221
+Free State;Contact sexual offences;155;153;158;123;121;107;84;97;93;66
+Free State;Carjacking;270;258;234;235;236;241;199;230;271;266
+""
+Free State;Robbery at non-residential premises;852;756;973;886;955;876;796;831;871;743
+Free State;TRIO Crime;1840;1787;2082;1985;2042;1842;1705;1787;1780;1768
+Free State;Robbery of cash in transit;9;5;12;17;8;12;2;11;7;4
+Free State;Bank robbery;2;0;0;2;0;0;0;1;0;0
+Free State;Truck hijacking;89;65;41;32;39;44;45;77;53;60
+Free State;Arson;287;265;186;164;123;148;127;171;142;169
+Free State;Malicious damage to property;7655;7551;6652;6068;5993;5592;5642;6635;6985;6606
+Free State;Contact-related crime;7942;7816;6838;6232;6116;5740;5769;6806;7127;6775
+Free State;Burglary at non-residential premises;4875;5210;5011;4963;5171;5417;4751;4233;5008;4568
+Free State;Burglary at residential premises;15618;15323;14635;13463;13244;12494;10241;11008;11659;10408
+Free State;Theft of motor vehicle and motorcycle;1743;1745;1588;1596;1413;1344;836;865;793;713
+Free State;Theft out of or from motor vehicle;5399;4878;4822;4599;4884;4527;3481;3535;4147;4277
+Free State;Stock-theft;3527;3466;3677;4032;4066;3785;3317;3259;3024;2911
+Free State;Property-related crime;31162;30622;29733;28653;28778;27567;22626;22900;24631;22877
+Free State;All theft not mentioned elsewhere;17180;16341;15623;13604;14989;14584;12375;15040;16985;16330
+Free State;Commercial crime;3806;3986;4511;3756;4162;4255;4074;4698;4351;4417
+Free State;Shoplifting;3148;3175;3214;2875;2855;2792;2259;2137;2513;2590
+Free State;Other serious crime;24134;23502;23348;20235;22006;21631;18708;21875;23849;23337
+""
+Free State;Illegal possession of firearms and ammunition;442;469;527;570;513;416;331;468;563;564
+Free State;Drug-related crime;8776;9623;11314;12176;7888;3989;3379;4143;5607;6118
+Free State;Driving under the influence of alcohol or drugs;1976;2448;2828;2824;3000;3207;1937;2330;2468;3165
+Free State;Sexual offences detected as a result of police action;193;251;346;441;506;701;604;818;1184;1620
+Free State;Crime detected as a result of police action;11387;12791;15015;16011;11907;8313;6251;7759;9822;11467
+Free State;Kidnapping;211;252;233;206;235;419;289;377;538;667
+Gauteng;Murder;3671;3842;4101;4233;4495;4555;4079;5570;6411;6584
+Gauteng;Sexual offences;9902;9510;9566;10116;10752;10810;9749;11178;10997;10821
+Gauteng;Attempted murder;4202;4574;4872;4462;4455;4639;4312;5309;6161;6795
+Gauteng;Assault with the intent to inflict grievous bodily harm;41830;42790;39684;39552;39805;38362;33605;37731;38031;39675
+""
+Gauteng;Common robbery;17379;18051;17367;16984;17757;18088;13436;14507;15682;15754
+Gauteng;Robbery with aggravating circumstances;47362;49792;53793;51706;52040;53927;44109;49700;53633;54707
+Gauteng;Contact crime (Crimes against the person);167264;172814;171466;170640;174894;177737;151911;171026;181806;186098
+Gauteng;Rape;7916;7605;7700;8062;8417;8509;7525;8675;8708;8648
+Gauteng;Sexual assault;1228;1214;1277;1511;1733;1775;1750;2010;1863;1698
+Gauteng;Attempted sexual offences;431;353;286;314;332;249;229;255;273;321
+Gauteng;Contact sexual offences;327;338;303;229;270;277;245;238;153;154
+Gauteng;Carjacking;6867;7367;8610;8269;7776;9025;8458;10964;11248;11258
+Gauteng;Robbery at residential premises;8174;7896;8731;8333;8644;7695;6933;7497;7728;8534
+Gauteng;Robbery at non-residential premises;6329;6910;7187;6679;6662;6989;5992;6455;6312;6269
+Gauteng;TRIO Crime;21370;22173;24528;23262;23082;23709;21382;24916;25288;26061
+Gauteng;Robbery of cash in transit;39;32;33;80;62;61;87;72;88;61
+Gauteng;Bank robbery;9;2;1;6;1;0;1;2;2;1
+Gauteng;Truck hijacking;804;695;668;708;647;629;774;1043;1219;1108
+Gauteng;Arson;1042;992;724;495;532;476;443;505;440;367
+Gauteng;Malicious damage to property;34805;34320;33299;31961;30743;28756;24553;28894;28767;27231
+Gauteng;Contact-related crime;35847;35312;34023;32456;31275;29232;24996;29399;29207;27598
+Gauteng;Burglary at non-residential premises;16983;16412;17173;16220;15985;15582;14326;12559;13599;12355
+Gauteng;Burglary at residential premises;66172;64968;63661;56255;53092;48980;33815;34363;35899;33793
+Gauteng;Theft of motor vehicle and motorcycle;27147;26646;27674;25705;24321;23819;18219;19465;19530;19351
+Gauteng;Theft out of or from motor vehicle;44809;42111;45266;41298;39171;37475;23526;23802;23931;23596
+Gauteng;Stock-theft;801;818;987;998;994;988;1020;886;1112;908
+Gauteng;Property-related crime;155912;150955;154761;140476;133563;126844;90906;91075;94071;90003
+Gauteng;All theft not mentioned elsewhere;109422;102599;97633;90739;87065;82595;62985;68983;75296;71865
+Gauteng;Commercial crime;23836;23680;24147;24912;28479;28941;28557;33783;37581;43041
+Gauteng;Shoplifting;22562;22157;21194;19436;18729;18160;15347;13206;15659;17171
+""
+Gauteng;17 Community reported serious crime;514843;507517;503224;478659;474005;463509;374702;407472;433620;435776
+Gauteng;Illegal possession of firearms and ammunition;3740;3600;4126;4505;3947;4079;3484;3610;4273;4566
+Gauteng;Drug-related crime;70264;55442;62837;69285;55639;43275;28034;29578;34963;38093
+Gauteng;Driving under the influence of alcohol or drugs;25794;32287;27834;33173;30203;34860;15493;18492;18676;23722
+Gauteng;Sexual offences detected as a result of police action;469;470;606;651;687;876;848;928;1458;1603
+Gauteng;Crime detected as a result of police action;100267;91799;95403;107614;90476;83090;47859;52608;59370;67984
+Gauteng;Kidnapping;1595;1736;1860;2215;2109;2202;1805;4495;7822;8683
+""
+KwaZulu-Natal;Sexual offences;9079;8947;8484;8759;9308;9809;8201;9617;10106;9965
+KwaZulu-Natal;Attempted murder;3918;4041;3914;4099;4203;4161;4391;5917;6307;7167
+KwaZulu-Natal;Assault with the intent to inflict grievous bodily harm;29201;28665;26824;26693;26878;27418;23531;26518;26397;29300
+KwaZulu-Natal;Common assault;24011;23703;22285;22842;23521;24900;21480;24843;25965;27809
+KwaZulu-Natal;Common robbery;7857;7524;7305;6596;7090;7183;5459;6438;7562;7841
+KwaZulu-Natal;Robbery with aggravating circumstances;20881;21061;22327;21543;22110;22824;20964;23897;26798;25275
+KwaZulu-Natal;Contact crime (Crimes against the person);98757;97870;95153;94914;97505;101154;88851;103725;110082;113700
+KwaZulu-Natal;Rape;7427;7307;7032;7243;7667;8017;6685;7966;8433;8152
+KwaZulu-Natal;Sexual assault;1138;1157;1039;1148;1266;1367;1172;1294;1140;1303
+KwaZulu-Natal;Attempted sexual offences;274;271;226;204;235;251;180;236;394;424
+KwaZulu-Natal;Contact sexual offences;240;212;187;164;140;174;164;121;139;86
+KwaZulu-Natal;Carjacking;2190;2493;3029;2698;2764;3041;2669;3279;3731;3336
+KwaZulu-Natal;Robbery at residential premises;3958;4082;4255;4174;4182;4575;4820;5221;5991;5561
+KwaZulu-Natal;Robbery at non-residential premises;2750;2825;2951;3047;3055;3072;3303;3403;3531;2785
+""
+KwaZulu-Natal;Robbery of cash in transit;18;21;25;30;12;16;22;41;33;43
+KwaZulu-Natal;Bank robbery;0;0;1;3;0;0;0;0;0;0
+KwaZulu-Natal;Truck hijacking;63;71;81;52;80;70;77;83;105;156
+KwaZulu-Natal;Arson;854;825;699;679;754;762;619;1048;690;664
+KwaZulu-Natal;Malicious damage to property;14605;14709;14010;12958;13704;13358;12608;15464;14083;14512
+KwaZulu-Natal;Contact-related crime;15459;15534;14709;13637;14458;14120;13227;16512;14773;15176
+KwaZulu-Natal;Burglary at non-residential premises;11032;11656;11253;10756;10863;10844;10566;13268;8882;8251
+KwaZulu-Natal;Burglary at residential premises;43274;42429;41013;38545;38790;35290;28735;26006;26578;26606
+KwaZulu-Natal;Theft of motor vehicle and motorcycle;8404;8673;8413;8240;8050;8030;6073;6151;6343;6151
+KwaZulu-Natal;Theft out of or from motor vehicle;18148;17896;16854;16344;14912;14388;10621;10299;11813;11724
+KwaZulu-Natal;Stock-theft;5956;5731;5959;6322;6380;6252;6059;6084;5665;5689
+KwaZulu-Natal;Property-related crime;86814;86385;83492;80207;78995;74804;62054;61808;59281;58421
+KwaZulu-Natal;All theft not mentioned elsewhere;47622;43573;42577;39615;40193;39647;32442;34876;37292;39618
+KwaZulu-Natal;Commercial crime;11227;11395;12405;12308;14899;14343;13872;16451;18247;20591
+KwaZulu-Natal;Shoplifting;14118;13648;12302;11620;10878;10138;7631;6967;8033;8576
+KwaZulu-Natal;Other serious crime;72967;68616;67284;63543;65970;64128;53945;58294;63572;68785
+KwaZulu-Natal;17 Community reported serious crime;273997;268405;260638;252301;256928;254206;218077;240339;247708;256082
+KwaZulu-Natal;Illegal possession of firearms and ammunition;4081;3908;4000;4418;3733;3719;3174;3285;3717;3587
+KwaZulu-Natal;Drug-related crime;47377;46354;50429;53987;35358;25990;19505;19965;23045;23138
+""
+KwaZulu-Natal;Sexual offences detected as a result of police action;2258;2561;3558;3520;3615;3474;1777;2121;2694;2368
+KwaZulu-Natal;Crime detected as a result of police action;65418;64875;71390;80143;60283;54199;29371;30794;32239;37797
+KwaZulu-Natal;Kidnapping;935;930;948;1097;1041;1423;1372;2520;3089;3329
+Limpopo;Murder;775;895;813;910;914;882;717;1012;1013;975
+Limpopo;Sexual offences;4312;4365;3823;3859;4060;3990;3720;4309;4689;4808
+Limpopo;Attempted murder;791;872;827;883;834;794;741;1102;1068;1179
+Limpopo;Assault with the intent to inflict grievous bodily harm;13501;14132;12934;11998;12116;11368;9976;12192;13205;13119
+Limpopo;Common assault;9067;9833;8365;7512;7428;7381;7645;9534;10889;10588
+Limpopo;Common robbery;3381;3544;3224;2838;2908;2899;2216;2618;3232;3169
+Limpopo;Robbery with aggravating circumstances;6116;6707;6735;7039;7006;7466;6105;6923;8004;8170
+Limpopo;Contact crime (Crimes against the person);37943;40348;36721;35039;35266;34780;31120;37690;42100;42008
+Limpopo;Rape;3725;3728;3317;3300;3501;3436;3126;3625;4021;4085
+Limpopo;Sexual assault;245;244;240;303;292;316;358;431;391;444
+Limpopo;Attempted sexual offences;262;258;195;193;196;190;177;211;229;226
+Limpopo;Contact sexual offences;80;135;71;63;71;48;59;42;48;53
+Limpopo;Carjacking;344;447;458;582;474;458;426;537;569;578
+""
+Limpopo;Robbery at non-residential premises;1521;1800;1749;1820;1838;2165;1560;1821;1943;1761
+""
+Limpopo;Robbery of cash in transit;9;12;10;14;13;15;13;25;24;20
+Limpopo;Bank robbery;1;0;0;0;0;0;0;0;0;0
+Limpopo;Truck hijacking;26;15;25;32;15;25;18;31;38;39
+Limpopo;Arson;584;612;484;431;390;354;260;340;344;348
+Limpopo;Malicious damage to property;6944;7603;6859;6805;6771;6589;6606;7428;7808;7672
+Limpopo;Contact-related crime;7528;8215;7343;7236;7161;6943;6866;7768;8152;8020
+Limpopo;Burglary at non-residential premises;7042;7382;7281;6711;6315;6703;5784;5403;6007;6103
+Limpopo;Burglary at residential premises;16430;16199;15956;14319;14634;14502;11577;11754;11768;11197
+Limpopo;Theft of motor vehicle and motorcycle;988;1150;1014;1021;861;787;614;821;777;706
+Limpopo;Theft out of or from motor vehicle;5489;5555;4983;4440;4262;4126;3048;3188;3412;3552
+Limpopo;Stock-theft;1642;1729;1920;2141;2396;2331;1970;2274;2539;2550
+Limpopo;Property-related crime;31591;32015;31154;28632;28468;28449;22993;23440;24503;24108
+Limpopo;All theft not mentioned elsewhere;19010;19866;20717;17339;17508;15709;13024;14679;17452;18722
+Limpopo;Commercial crime;3495;3731;4021;3734;4118;4275;4324;5095;5853;6919
+Limpopo;Shoplifting;3909;3799;3742;3259;3455;3796;2784;2899;3350;3450
+Limpopo;Other serious crime;26414;27396;28480;24332;25081;23780;20132;22673;26655;29091
+Limpopo;17 Community reported serious crime;103476;107974;103698;95239;95976;93952;81111;91571;101410;103227
+Limpopo;Illegal possession of firearms and ammunition;471;453;532;639;702;635;545;476;636;714
+Limpopo;Drug-related crime;11702;11266;14381;19572;13533;4775;5904;5507;6833;8072
+Limpopo;Driving under the influence of alcohol or drugs;3214;4141;4418;5682;6557;7916;3972;3205;1607;2951
+Limpopo;Sexual offences detected as a result of police action;2917;1842;698;1346;2457;3594;3346;2563;2927;3412
+Limpopo;Crime detected as a result of police action;18304;17702;20029;27239;23249;16920;13767;11751;12003;15149
+Limpopo;Kidnapping;228;305;271;300;243;289;260;317;452;514
+Mpumalanga;Murder;833;862;954;923;996;1046;935;1201;1344;1565
+Mpumalanga;Sexual offences;3474;3335;3221;3201;3470;3513;3134;3553;3294;3283
+Mpumalanga;Attempted murder;705;800;953;898;1090;1108;1016;1401;1417;1554
+Mpumalanga;Assault with the intent to inflict grievous bodily harm;10788;11370;10910;10697;11407;11250;9682;10588;10766;11963
+Mpumalanga;Common assault;7516;7654;7720;7648;8204;8423;7857;8481;8810;8925
+Mpumalanga;Common robbery;2935;2747;2954;2542;2627;2610;1860;2011;2007;2237
+Mpumalanga;Robbery with aggravating circumstances;5663;6012;6712;6766;7091;7672;7004;8864;8948;9263
+Mpumalanga;Contact crime (Crimes against the person);31914;32780;33424;32675;34885;35622;31488;36099;36586;38790
+Mpumalanga;Rape;3000;2847;2712;2713;2903;2971;2611;3016;2772;2758
+Mpumalanga;Sexual assault;221;245;264;282;384;371;362;364;374;376
+Mpumalanga;Attempted sexual offences;174;161;146;121;117;105;99;100;103;117
+Mpumalanga;Contact sexual offences;79;82;99;85;66;66;62;73;45;32
+Mpumalanga;Carjacking;510;632;811;898;917;999;967;1467;1271;1452
+Mpumalanga;Robbery at residential premises;1114;1085;1141;1128;1069;1184;1271;1475;1582;1576
+Mpumalanga;Robbery at non-residential premises;1367;1564;1765;1625;1758;1783;1662;1978;1947;1609
+Mpumalanga;TRIO Crime;2991;3281;3717;3651;3744;3966;3900;4920;4800;4637
+Mpumalanga;Robbery of cash in transit;14;19;22;24;16;15;17;21;21;15
+""
+Mpumalanga;Truck hijacking;156;194;180;121;116;144;111;210;229;207
+Mpumalanga;Arson;292;287;260;254;235;245;206;288;270;243
+""
+Mpumalanga;Contact-related crime;6146;6123;5843;5783;6031;6200;5703;6272;6031;5863
+""
+Mpumalanga;Burglary at residential premises;18219;18180;18535;17597;16533;16040;12555;11604;12285;11049
+Mpumalanga;Theft of motor vehicle and motorcycle;2303;2223;2211;2209;2290;2304;1655;1676;1484;1562
+Mpumalanga;Theft out of or from motor vehicle;8011;7388;6938;6837;6896;5973;4816;4317;4490;4360
+Mpumalanga;Stock-theft;2216;2364;2903;3181;3255;2987;2706;2780;2722;2401
+Mpumalanga;Property-related crime;36296;36173;36752;35809;35008;33035;27237;25176;26260;24243
+Mpumalanga;All theft not mentioned elsewhere;18934;18465;18498;17071;16858;15884;13447;13359;13682;12901
+Mpumalanga;Commercial crime;4499;4735;5152;5180;5188;5104;5126;5924;5990;7021
+Mpumalanga;Shoplifting;3494;3397;3454;3290;3189;3379;2698;2631;3048;3124
+Mpumalanga;Other serious crime;26927;26597;27104;25541;25235;24367;21271;21914;22720;23046
+""
+Mpumalanga;Illegal possession of firearms and ammunition;1071;980;1138;1085;906;1039;495;740;814;786
+Mpumalanga;Drug-related crime;8855;9822;11531;13046;9959;6670;4517;4663;5001;4723
+Mpumalanga;Driving under the influence of alcohol or drugs;2974;3651;4207;4302;4316;5541;2146;2254;1447;2331
+Mpumalanga;Sexual offences detected as a result of police action;46;93;41;24;24;17;9;10;7;2
+Mpumalanga;Crime detected as a result of police action;12946;14546;16917;18457;15205;13267;7167;7667;7269;7842
+Mpumalanga;Kidnapping;324;303;321;381;466;492;507;893;979;1037
+North West;Murder;853;907;901;950;961;864;734;1029;1108;1131
+North West;Sexual offences;4585;4164;4326;4182;4021;3824;3262;3737;3899;4032
+North West;Attempted murder;984;899;898;864;857;765;799;872;1039;1012
+North West;Assault with the intent to inflict grievous bodily harm;13334;13614;12731;13131;13250;12712;11003;13029;14377;16120
+North West;Common assault;6930;6942;7021;7828;8611;8733;8098;9391;10622;12001
+North West;Common robbery;2419;2417;2589;2824;2764;2581;2007;2232;2539;2735
+North West;Robbery with aggravating circumstances;5977;6281;7017;6825;7023;6807;5733;6492;7108;8355
+North West;Contact crime (Crimes against the person);35082;35224;35483;36604;37487;36286;31636;36782;40692;45386
+North West;Rape;3771;3433;3615;3479;3374;3136;2661;3098;3218;3343
+North West;Sexual assault;310;305;319;347;343;345;356;337;387;412
+North West;Attempted sexual offences;315;284;246;261;214;262;192;217;245;232
+North West;Contact sexual offences;189;142;146;95;90;81;53;85;49;45
+North West;Carjacking;278;370;390;425;478;493;366;519;612;700
+North West;Robbery at residential premises;1110;1065;1290;1145;1291;1076;1034;1080;1093;1195
+North West;Robbery at non-residential premises;1419;1394;1493;1263;1329;1307;1172;1389;1394;1605
+North West;TRIO Crime;2807;2829;3173;2833;3098;2876;2572;2988;3099;3500
+""
+North West;Bank robbery;1;3;0;1;2;0;0;0;0;0
+North West;Truck hijacking;45;42;48;41;54;36;37;68;67;75
+North West;Arson;329;314;290;323;347;246;228;268;250;245
+North West;Malicious damage to property;5902;5762;5774;5821;6285;5964;5760;6471;6903;6886
+North West;Contact-related crime;6231;6076;6064;6144;6632;6210;5988;6739;7153;7131
+North West;Burglary at non-residential premises;5080;5313;6042;5563;5732;5204;4903;4649;4996;4896
+North West;Burglary at residential premises;15687;15568;15908;15267;15436;14156;11469;11393;11850;11047
+North West;Theft of motor vehicle and motorcycle;1984;2070;2068;2112;1999;1929;1452;1652;1723;1427
+North West;Theft out of or from motor vehicle;6349;5913;6293;5866;6315;5583;4730;4554;4396;4098
+North West;Stock-theft;2574;2605;3192;3447;3557;3005;2693;2772;2955;2870
+North West;Property-related crime;31674;31469;33503;32255;33039;29877;25247;25020;25920;24338
+North West;All theft not mentioned elsewhere;17943;16751;15677;14268;14610;14579;12619;14054;16088;16201
+North West;Commercial crime;4016;4212;3914;3744;5155;3768;3792;5885;7110;6473
+North West;Shoplifting;2270;2188;2176;2008;2075;2011;1834;1708;1918;1908
+North West;Other serious crime;24229;23151;21767;20020;21840;20358;18245;21647;25116;24582
+North West;17 Community reported serious crime;97216;95920;96817;95023;98998;92731;81116;90188;98881;101437
+North West;Illegal possession of firearms and ammunition;531;678;735;674;692;704;617;569;742;848
+North West;Drug-related crime;11632;12189;11972;13825;9910;7140;3511;4705;5896;7056
+North West;Driving under the influence of alcohol or drugs;1927;2583;2562;2725;2777;3480;1303;2479;2310;3001
+North West;Sexual offences detected as a result of police action;106;87;255;261;428;704;230;741;1257;1761
+North West;Crime detected as a result of police action;14196;15537;15524;17485;13807;12028;5661;8494;10205;12666
+North West;Kidnapping;321;251;288;347;378;424;375;507;628;758
+Northern Cape;Murder;413;372;344;340;322;326;287;366;392;400
+Northern Cape;Sexual offences;1578;1719;1587;1538;1578;1590;1295;1317;1535;1570
+Northern Cape;Attempted murder;562;658;550;480;532;468;474;780;1700;2020
+Northern Cape;Assault with the intent to inflict grievous bodily harm;8813;8889;8173;7723;7790;7594;6356;7017;6810;7503
+Northern Cape;Common assault;4803;4598;4440;4375;4481;4533;4301;5045;5761;5704
+Northern Cape;Common robbery;1262;1348;1506;1285;1408;1437;1170;999;1107;1121
+Northern Cape;Robbery with aggravating circumstances;1446;1387;1505;1639;1780;1643;1426;1323;1569;1690
+Northern Cape;Contact crime (Crimes against the person);18877;18971;18105;17380;17891;17591;15309;16847;18874;20008
+Northern Cape;Rape;1181;1287;1143;1100;1121;1125;908;952;1099;1130
+Northern Cape;Sexual assault;228;240;235;245;255;229;207;212;253;259
+Northern Cape;Attempted sexual offences;128;147;154;130;150;186;142;101;144;157
+Northern Cape;Contact sexual offences;41;45;55;63;52;50;38;52;39;24
+Northern Cape;Carjacking;15;47;29;37;39;34;20;23;38;41
+Northern Cape;Robbery at residential premises;123;106;142;159;157;132;151;141;157;176
+Northern Cape;Robbery at non-residential premises;240;258;304;299;332;198;225;211;269;205
+Northern Cape;TRIO Crime;378;411;475;495;528;364;396;375;464;422
+Northern Cape;Robbery of cash in transit;0;1;0;1;1;1;0;2;1;0
+Northern Cape;Bank robbery;1;0;0;0;0;0;0;0;0;0
+Northern Cape;Truck hijacking;0;2;0;3;4;1;3;0;2;4
+Northern Cape;Arson;172;172;149;156;162;137;121;179;196;188
+Northern Cape;Malicious damage to property;3209;3084;2954;2927;3243;3104;3034;3614;4077;3798
+Northern Cape;Contact-related crime;3381;3256;3103;3083;3405;3241;3155;3793;4273;3986
+Northern Cape;Burglary at non-residential premises;2270;2203;2403;2172;2722;2315;2344;2352;2759;2343
+Northern Cape;Burglary at residential premises;6204;6469;6518;6228;6325;6208;5543;5280;6363;5623
+Northern Cape;Theft of motor vehicle and motorcycle;327;246;219;233;215;214;134;172;162;145
+Northern Cape;Theft out of or from motor vehicle;2898;2962;2911;2609;2845;2739;2186;2117;2227;2183
+Northern Cape;Stock-theft;1331;1332;1356;1558;1313;1259;1221;861;987;974
+Northern Cape;Property-related crime;13030;13212;13407;12800;13420;12735;11428;10782;12498;11268
+Northern Cape;All theft not mentioned elsewhere;7437;7316;7104;6871;7492;7804;6457;7286;8652;7591
+Northern Cape;Commercial crime;997;1037;1108;1097;1088;1188;1186;1666;1872;2100
+Northern Cape;Shoplifting;1360;1276;1407;1309;1344;1546;1134;990;1345;1449
+""
+Northern Cape;17 Community reported serious crime;45082;45068;44234;42540;44640;44105;38669;41364;47514;46402
+Northern Cape;Illegal possession of firearms and ammunition;102;92;102;103;99;70;81;70;70;57
+Northern Cape;Drug-related crime;3527;4344;5136;5563;3813;2620;2108;1969;2579;2945
+Northern Cape;Driving under the influence of alcohol or drugs;804;725;797;812;652;620;398;443;251;436
+Northern Cape;Sexual offences detected as a result of police action;3;22;49;17;9;6;7;5;3;5
+Northern Cape;Crime detected as a result of police action;4436;5183;6084;6495;4573;3316;2594;2487;2903;3443
+Northern Cape;Kidnapping;47;64;71;64;61;69;65;70;98;165
+Western Cape;Murder;3186;3224;3311;3729;3974;3975;3848;4109;4150;4544
+Western Cape;Sexual offences;7369;7130;7115;7075;7043;7303;6437;7163;7294;7082
+Western Cape;Attempted murder;3727;3444;3387;3698;3860;3555;4143;3669;3594;4479
+Western Cape;Assault with the intent to inflict grievous bodily harm;26200;25539;24417;23583;24488;23753;19452;21901;23540;23977
+Western Cape;Common assault;39150;41304;39868;38579;39202;38992;33857;37702;41800;42861
+Western Cape;Common robbery;13420;12485;12574;12003;11355;11381;7354;8221;10080;11003
+Western Cape;Robbery with aggravating circumstances;23116;23732;24032;24329;24065;24549;19050;19292;22441;24679
+Western Cape;Contact crime (Crimes against the person);116168;116858;114704;112996;113987;113508;94141;102057;112899;118625
+Western Cape;Rape;4951;4800;4771;4744;4649;4877;4442;4843;5029;4825
+Western Cape;Sexual assault;1640;1576;1670;1710;1757;1910;1440;1627;1674;1625
+Western Cape;Attempted sexual offences;409;437;365;372;341;274;321;389;406;429
+Western Cape;Contact sexual offences;369;317;309;249;296;242;234;304;185;203
+Western Cape;Carjacking;1530;2032;2201;2182;2294;2760;2630;2562;3096;3203
+Western Cape;Robbery at residential premises;2158;2574;2560;2787;2749;2414;2742;2667;2368;2422
+Western Cape;Robbery at non-residential premises;2218;1973;1889;2033;1689;1879;1567;1610;1582;1429
+""
+Western Cape;Robbery of cash in transit;15;24;35;26;15;12;17;14;11;10
+Western Cape;Bank robbery;1;0;0;1;0;0;0;7;0;1
+Western Cape;Truck hijacking;62;46;58;121;117;129;173;93;106;93
+Western Cape;Arson;782;757;781;762;842;749;674;711;711;693
+Western Cape;Malicious damage to property;29289;29217;29216;28001;28514;27088;24218;26339;27860;28089
+Western Cape;Contact-related crime;30071;29974;29997;28763;29356;27837;24892;27050;28571;28782
+Western Cape;Burglary at non-residential premises;13719;13344;12535;11379;10711;10440;9612;8209;8360;8135
+Western Cape;Burglary at residential premises;47783;47569;46043;42662;39418;36056;27265;26291;28175;27020
+Western Cape;Theft of motor vehicle and motorcycle;8918;8378;7381;7104;6791;6359;4511;4732;4956;5216
+Western Cape;Theft out of or from motor vehicle;42221;41458;37910;35532;34120;32471;22426;21532;24076;24653
+Western Cape;Stock-theft;831;861;885;953;975;1011;925;722;690;729
+Western Cape;Property-related crime;113472;111610;104754;97630;92015;86337;64739;61486;66257;65753
+Western Cape;All theft not mentioned elsewhere;97396;92032;85957;79975;77465;67827;49928;57543;64565;59302
+Western Cape;Commercial crime;10408;10986;11725;12109;13451;13599;13294;18415;21293;25162
+Western Cape;Shoplifting;14421;13492;14557;13738;12931;13165;10378;9004;10063;10660
+Western Cape;Other serious crime;122225;116510;112239;105822;103847;94591;73600;84962;95921;95124
+Western Cape;17 Community reported serious crime;381936;374952;361694;345211;339205;322273;257372;275555;303648;308284
+""
+Western Cape;Drug-related crime;88731;93996;107379;117157;81344;62708;44621;60235;67063;72382
+Western Cape;Driving under the influence of alcohol or drugs;13224;11725;12895;12776;12561;12340;3760;5730;9256;9427
+Western Cape;Sexual offences detected as a result of police action;129;242;274;166;169;165;99;33;41;32
+Western Cape;Crime detected as a result of police action;105043;108782;123477;133521;97223;78174;50998;68641;79156;84679
+Western Cape;Kidnapping;624;748;612;644;674;748;843;1028;952;1060
+Limpopo;Property-related crime;31591;32015;31154;28632;28468;28449;22993;23440;24503;24108
+Mpumalanga;Robbery at non-residential premises;1367;1564;1765;1625;1758;1783;1662;1978;1947;1609
+Western Cape;Malicious damage to property;29289;29217;29216;28001;28514;27088;24218;26339;27860;28089
+Western Cape;17 Community reported serious crime;381936;374952;361694;345211;339205;322273;257372;275555;303648;308284
+""
+Free State;Theft of motor vehicle and motorcycle;1743;1745;1588;1596;1413;1344;836;865;793;713
+KwaZulu-Natal;Sexual assault;1138;1157;1039;1148;1266;1367;1172;1294;1140;1303
+Republic of South Africa;TRIO Crime;52224;55120;59740;58612;58448;59943;55831;62767;65821;64941
+""
+Eastern Cape;Commercial crime;5546;6155;6567;6437;7283;8396;8665;10140;10295;11786
+Gauteng;Stock-theft;801;818;987;998;994;988;1020;886;1112;908
+""
